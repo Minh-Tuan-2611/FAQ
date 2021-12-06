@@ -12,3 +12,5 @@ app.appendChild(title);
 app.appendChild(msg1.render());
 app.appendChild(msg2.render());
 app.appendChild(msg3.render());
+
+var x;
